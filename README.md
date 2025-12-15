@@ -1,13 +1,13 @@
 ## Captum results for Poomsae detection
 
 ### Filter based:
-* Model and optimizer type
-* Classes (4 Forms)
+* **Model** and **Optimizer** type
+* **Classes** (4 Forms)
 * Plot types
-  * Heat Map
-  * Line
-  * Bar
-* Absolute and Signed Attributions
+  * **Heat Map**
+  * **Line**
+  * **Bar**
+* **Absolute (\|IG\|)** and **Signed (±IG)** Attributions
 
 ### URL: 
 
